@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852484945637",
+    "project_id": "softmeth-f28dc",
+    "storage_bucket": "softmeth-f28dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852484945637:android:961ac1b59632a430adc60c",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzw7O99Wq_o0DEpbhLqD5fZVGCfb7i_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
